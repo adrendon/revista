@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<settings 
+		
+		
+		book_size="820x1140"
+		
+		outline_thickness="0"
+		
+		outline_color="0xFFFFFF"
+		
+		activateKeyboard="1"
+		
+		margin="30"
+		
+		cornerFlipEvent="click"
+		
+		
+		tableOfContentPage="2"
+		
+		pdf="pdf/book1-pdf.zip"
+		
+		link_button_url="http://activeden.net/user/FlashTang/portfolio"
+		
+		background="backgrounds/1.jpg"
+	
+		printSmoothing="1"
+		
+		thumbnail_width="98"
+		
+		thumbnail_height="140"
+		
+		isArabic="0"
+		
+		preventCache="0"
+		
+		load_paggs_numConnections="2"
+		
+	/>
+	
+	
+	<pages>
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing-->
+		</page>
+	
+		
+		<page src="pages/2.swf" th="pages/th_02.jpg">
+			<!--Nothing-->
+		</page>
+		 
+		
+		<page src="pages/3.swf" th="pages/th_03.jpg">
+			<!--Nothing-->
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg" shadowAlpha="0">
+			<!--Nothing-->
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg" shadowAlpha="0">
+			<!--Nothing-->
+		</page>
+		
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing-->
+		</page>
+		
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing-->
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing-->
+		</page>
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing-->
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			<!--Nothing pTTkTN_IIck-->
+		</page>
+		
+		<page src="pages/11.swf" th="pages/th_11.jpg">
+			 
+			<video 
+				type="youtube" 
+				id="YE7VzlLtp-4" 
+				size="720x492" 
+				pos="58,395" 
+				autoPlay="1" 
+				cp_autoHide="0" 
+				border="1"
+				title="VIDEO | Incredible in the Making"
+			/>
+		</page>
+		
+		<page src="pages/12.swf" th="pages/th_12.jpg">
+			<!--Nothing-->
+		</page>
+		
+		<page src="pages/13.swf" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+		
+		<page src="" th="pages/th_01.jpg" >
+			<htmlText width="680" pos="80,80">
+				<![CDATA[<b><FONT color='#333333'  size='14'>You Can Add HTML Text To Your Page Via XML Easily</font></b><BR><font color='#555555'  size='12'>................................................................................................<br>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."<br>................................................................................................<br></FONT>]]>
+			</htmlText>
+		</page>
+		
+		<page src="" th="pages/th_01.jpg">
+			<htmlText width="680" pos="80,80">
+				<![CDATA[<b><FONT color='#333333'  size='14'>You Can Add HTML Text To Your Page Via XML Easily,</font></b><BR><font color='#555555'  size='12'>................................................................................................<br>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  consectetur adipiscing elit. Maecenas viverra molestie tortor vel ullamcorper. <BR>Etiam neque sapien, ultricies sollicitudin interdum quis, porttitor id sem. Proin purus felis, conv at ultrices.<BR>Interdum quis, porttitor id sem.<br>................................................................................................<br>Aliquam sem lectus, commodo at lacinia ac, condimentum vitae turpis. Maecenas quis elit non dui accumsan congue a non est. Quisque rutrum nisl nec nunc tempor nec varius enim bibendum. Nulla rhoncus aliquet feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ligula ante, iaculis sit amet fermentum in, dapibus posuere quam. Quisque tortor mi, imperdiet quis scelerisque a, rhoncus sed felis. Integer euismod, metus vitae ullamcorper laoreet, erat mauris molestie sapien, vitae auctor enim risus imperdiet tellus. Sed malesuada vehicula elementum. Quisque ultrices interdum mattis. Nullam eu magna sed est adipiscing elementum. Nullam vel ornare erat. Donec magna neque, faucibus sit amet ullamcorper et, vehicula a nunc. <br>................................................................................................<br></FONT>]]>
+			</htmlText>
+		</page>
+		
+		
+		
+		<page src="pages/01.jpg" th="pages/th_01.jpg">
+			
+		</page>
+	
+	</pages>
+</book>

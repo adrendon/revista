@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteInfo>
+	<copyright>
+		<![CDATA[<font color='#000000'><u><a href="http://www.google.com">(c)2011 YourDomain.com</a></u></font>]]>
+	</copyright>
+	
+	<social>
+		<item icon="icons/1.png" link="http://activeden.net"/>
+		<item icon="icons/2.png" link="http://activeden.net"/>
+		<item icon="icons/3.png" link="http://activeden.net"/>
+		<item icon="icons/4.png" link="http://activeden.net"/>
+		<item icon="icons/5.png" link="http://activeden.net"/>
+		<item icon="icons/6.png" link="http://activeden.net"/>
+	</social>
+	
+	<contactInfo>
+		<!--you can add more lines , but it's limited in the height ,the "split line" is auto created-->
+		<info>
+			<![CDATA[<b><FONT color='#FFFFFF' size='12'>ADDRESS</FONT></b><br><FONT color='#FFFFFF'  size='10'>Firefly<br>789 Chaoyang Beijing, 010, CHN</FONT><br><FONT color='#FFFFFF'  size='12'><b>PHONE</b></FONT><br><FONT color='#FFFFFF'  size='10'>010 - 568 78844</FONT><br><FONT color='#FFFFFF'  size='12'><b>EMAIL</b></FONT><br><FONT color='#FFFFFF'  size='10'>Email@Email.com</FONT><br><FONT color='#FFFFFF'  size='12'><b>WEBSITE</b></FONT><br><FONT color='#FFFFFF'  size='10'>http://www.yoursite.com</FONT>]]>
+		</info>
+	
+		<info>
+			<![CDATA[<b><FONT color='#FFFFFF' size='12'>Information</FONT></b><br><FONT color='#FFFFFF' size='10'>Hyperlink tincidunt libero sit amet ,Suspendisse turpis augue, estibulum,<br>Consequat rutrum<<br>Fusce ac justo at nibh pulvinar<br>Curabitur est risus.<br>ornare posuere velit.</FONT>]]>
+		</info>
+		
+		<info>
+			<![CDATA[<b><FONT color='#FFFFFF' size='12'>Add another line</FONT></b><br><FONT color='#FFFFFF' size='10'>Fusce ac justo at nibh pulvinar<br>Curabitur est risus.<br>ornare posuere velit.</FONT>]]>
+		</info>
+	</contactInfo>
+
+</siteInfo>
+
+
+ 
