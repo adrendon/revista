@@ -11,7 +11,7 @@
 		
 		activateKeyboard="1"
 		
-		margin="30"
+		margin="2"
 		
 		cornerFlipEvent="click"
 		
