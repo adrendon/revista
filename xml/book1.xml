@@ -3,7 +3,7 @@
 	<settings 
 		
 		
-		book_size="980x980"
+		book_size="1200x1400"
 		
 		outline_thickness="0"
 		
@@ -11,7 +11,7 @@
 		
 		activateKeyboard="1"
 		
-		margin="2"
+		margin="0"
 		
 		cornerFlipEvent="click"
 		
